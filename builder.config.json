@@ -5,7 +5,7 @@
     "region": "auto",
     "accessKeyId": "58933278700c52c24585ab97dd347128",
     "secretAccessKey": "ec527c8d58faeb35de104025745bf44954d271edda289638c0395ef3d5bc7382",
-    "endpoint": "https://f59cbb63e6fb433e4cd8b08e5844f631.r2.cloudflarestorage.com",
+    "endpoint": "https://gallery.luoyiyi.name/images",
     "prefix": "",
     "customDomain": "https://f59cbb63e6fb433e4cd8b08e5844f631.r2.cloudflarestorage.com/luoyiyi"
   }
