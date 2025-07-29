@@ -1,13 +1,13 @@
 {
-  "name": "Innei's Afilmory",
-  "title": "Innei's Afilmory",
-  "description": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.",
-  "url": "https://afilmory.innei.in/",
+  "name": "一一的记忆画廊",
+  "title": "一一的记忆画廊",
+  "description": "记录一一的点点滴滴",
+  "url": "https://gallery.luoyiyi.name/",
   "accentColor": "#007bff",
   "author": {
-    "name": "Innei",
-    "url": "https://innei.in/",
-    "avatar": "https://cdn.jsdelivr.net/gh/Innei/static@master/avatar.png"
+    "name": "一一",
+    "url": "https://gallery.luoyiyi.name/",
+    "avatar": "https://pt.luoyiyi.name:9999/gateway/streamV2/fxn%202025-07-26%20144108.304.jpg?auth_code=Q3EzCPQ9iC45T6tZKchZfK%2BAo0pp5b3DMtV0GI4psPJs%2F1mN0KPjiwnEAEMDdqkJ5pzLKGDX1Oan%2B1LZ7piS63h1o6%2B%2F%2F6ZcSTB0TukzN2W6fMlNTmAoam3ZrlkYcP%2FFokU%3D"
   },
   "map": [
     "maplibre"
