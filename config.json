@@ -1,13 +1,13 @@
 {
-  "name": "一一的记忆画廊",
-  "title": "一一的记忆画廊",
+  "name": "一一画廊",
+  "title": "一一画廊",
   "description": "记录一一的点点滴滴",
   "url": "https://gallery.luoyiyi.name/",
   "accentColor": "#007bff",
   "author": {
     "name": "一一",
     "url": "https://gallery.luoyiyi.name/",
-    "avatar": "https://pt.luoyiyi.name:9999/gateway/streamV2/fxn%202025-07-26%20175049.846.JPG?auth_code=Q3EzCPQ9iC45T6hfKsBbf6%2BBo0pp5b3DMtRxG44psPJs%2F1mNgamxiA7FABRaJqdb5JifeGXS0%2BT89lTY7J7B6yAn%2Fvy%2F%2F6ZcSTB0TukzN2W6fIykTNthqdrHyPKTm7ljTnc%3D"
+    "avatar": "https://cdn.nlark.com/yuque/0/2025/png/12582565/1753771501807-avatar/9aa04616-52b7-4df1-9607-14eb9f542897.png?x-oss-process=image%2Fresize%2Cm_fill%2Cw_160%2Ch_160%2Fformat%2Cpng"
   },
   "map": [
     "maplibre"
